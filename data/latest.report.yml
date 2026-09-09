@@ -7,7 +7,7 @@ about:
   latestVersion: "3.10.1"
   latestRelease: "3.10.1"
   latestPrerelease: "3.8.2.0rc1"
-  collectedAt: 2026-09-09T06:26:18Z
+  collectedAt: 2026-09-09T20:51:31Z
 timeline:
   created: 2012-05-15
   lastCommit: 2026-08-19
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 4668
   watcher: 149
-  fork: 602
+  fork: 603
   release: 66
   contributor: 248
   pullRequest: 762
@@ -85,7 +85,7 @@ total:
   commit: 2510
 ---
 path: /home/runner/.x-repo/github.com/Guake/guake
-collectedAt: 2026-09-09T06:26:20Z
+collectedAt: 2026-09-09T20:51:35Z
 loc:
   Python:
     code: 8770
