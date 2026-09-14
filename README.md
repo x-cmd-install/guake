@@ -26,7 +26,7 @@ Total: **19,373** lines of code across **64** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
@@ -57,30 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 7 | 0 | 0 | 3 |
-| last60d | 2026-07-15 | 0 | 5 | 9 | 0 | 1 | 8 |
-| 90d | 2026-06-15 | 0 | 7 | 10 | 0 | 1 | 11 |
-| last180d | 2026-03-17 | 0 | 9 | 13 | 0 | 4 | 13 |
-| 360d | 2025-09-18 | 1 | 9 | 19 | 5 | 18 | 13 |
-| last720d | 2024-09-23 | 1 | 11 | 22 | 9 | 38 | 24 |
-
-## Distribution status
-
-Reported by **82** distros on [repology.org](https://repology.org/project/guake). **23** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.10.1` | ✅ latest |
-| Debian 14 | `3.10.1` | ✅ latest |
-| Debian 13 | `3.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.10.1` | ✅ latest |
-| Ubuntu 24.04 LTS | `3.10` | ⚠️ outdated |
-| Arch | `3.10.1` | ✅ latest |
-| Fedora rawhide | `3.7.0` | ⚠️ outdated |
-| Nix unstable | `3.10.1` | ✅ latest |
-| Void | `3.10` | ⚠️ outdated |
-| Alpine edge | `3.10.1` | ✅ latest |
-| openSUSE Tumbleweed | `3.10` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 5 | 9 | 0 | 1 | 6 |
+| 90d | 2026-06-16 | 0 | 7 | 10 | 0 | 1 | 10 |
+| last180d | 2026-03-18 | 0 | 9 | 13 | 0 | 4 | 13 |
+| 360d | 2025-09-19 | 1 | 9 | 19 | 5 | 18 | 13 |
+| last720d | 2024-09-24 | 1 | 11 | 22 | 9 | 38 | 24 |
 
 ## Improve this data
 
@@ -91,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:29:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:47:52Z._
