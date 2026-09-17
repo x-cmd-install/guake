@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,669 · **Forks**: 604 · **Open issues**: 1,553 · **Contributors**: 248
+- **Stars**: 4,669 · **Forks**: 604 · **Open issues**: 1,554 · **Contributors**: 248
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 647 · **Open PRs**: 26 · **Closed issues**: 1120 · **Open issues**: 433 · **Commits**: 2510
+- **Releases**: 66 · **Merged PRs**: 647 · **Open PRs**: 26 · **Closed issues**: 1120 · **Open issues**: 434 · **Commits**: 2510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 4 | 7 | 0 | 1 | 6 |
-| 90d | 2026-06-18 | 0 | 7 | 10 | 0 | 1 | 10 |
-| last180d | 2026-03-20 | 0 | 9 | 13 | 0 | 3 | 13 |
-| 360d | 2025-09-21 | 1 | 9 | 19 | 5 | 18 | 13 |
-| last720d | 2024-09-26 | 1 | 11 | 22 | 9 | 38 | 24 |
+| 30d | 2026-08-18 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last60d | 2026-07-19 | 0 | 3 | 7 | 0 | 2 | 6 |
+| 90d | 2026-06-19 | 0 | 7 | 10 | 0 | 2 | 10 |
+| last180d | 2026-03-21 | 0 | 9 | 13 | 0 | 4 | 13 |
+| 360d | 2025-09-22 | 1 | 9 | 19 | 5 | 19 | 13 |
+| last720d | 2024-09-27 | 1 | 11 | 22 | 9 | 39 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:43:52Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:43:02Z._
