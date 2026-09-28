@@ -26,7 +26,7 @@ Total: **19,373** lines of code across **64** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-07-29 | 0 | 3 | 7 | 0 | 2 | 3 |
-| 90d | 2026-06-29 | 0 | 6 | 10 | 0 | 3 | 8 |
-| last180d | 2026-03-31 | 0 | 9 | 13 | 0 | 4 | 13 |
-| 360d | 2025-10-02 | 1 | 9 | 19 | 4 | 20 | 13 |
-| last720d | 2024-10-07 | 1 | 11 | 22 | 9 | 38 | 24 |
+| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-07-30 | 0 | 3 | 7 | 0 | 2 | 3 |
+| 90d | 2026-06-30 | 0 | 6 | 10 | 0 | 3 | 8 |
+| last180d | 2026-04-01 | 0 | 9 | 13 | 0 | 4 | 13 |
+| 360d | 2025-10-03 | 1 | 9 | 19 | 4 | 20 | 13 |
+| last720d | 2024-10-08 | 1 | 11 | 22 | 9 | 38 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:38:50Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:49:02Z._
