@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,670 · **Forks**: 604 · **Open issues**: 1,555 · **Contributors**: 248
+- **Stars**: 4,671 · **Forks**: 607 · **Open issues**: 1,555 · **Contributors**: 248
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 7 | 0 | 2 | 3 |
-| 90d | 2026-07-07 | 0 | 5 | 9 | 0 | 3 | 8 |
-| last180d | 2026-04-08 | 0 | 9 | 13 | 0 | 4 | 13 |
-| 360d | 2025-10-10 | 1 | 9 | 19 | 4 | 20 | 13 |
-| last720d | 2024-10-15 | 1 | 11 | 22 | 8 | 36 | 24 |
+| 30d | 2026-09-06 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 7 | 0 | 2 | 3 |
+| 90d | 2026-07-08 | 0 | 5 | 9 | 0 | 3 | 8 |
+| last180d | 2026-04-09 | 0 | 9 | 13 | 0 | 4 | 13 |
+| 360d | 2025-10-11 | 1 | 9 | 19 | 4 | 20 | 13 |
+| last720d | 2024-10-16 | 1 | 11 | 22 | 8 | 36 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:04:54Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:54:46Z._
