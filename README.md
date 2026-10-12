@@ -26,7 +26,7 @@ Total: **19,373** lines of code across **64** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 646 · **Open PRs**: 30 · **Closed issues**: 1119 · **Open issues**: 436 · **Commits**: 2510
+- **Releases**: 66 · **Merged PRs**: 646 · **Open PRs**: 33 · **Closed issues**: 1119 · **Open issues**: 436 · **Commits**: 2510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 11 | 0 | 3 | 3 |
-| 90d | 2026-07-13 | 0 | 5 | 13 | 0 | 4 | 8 |
-| last180d | 2026-04-14 | 0 | 9 | 17 | 0 | 5 | 13 |
-| 360d | 2025-10-16 | 1 | 9 | 23 | 3 | 20 | 13 |
-| last720d | 2024-10-21 | 1 | 11 | 26 | 7 | 36 | 24 |
+| 30d | 2026-09-12 | 0 | 0 | 7 | 0 | 3 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 14 | 0 | 3 | 2 |
+| 90d | 2026-07-14 | 0 | 5 | 16 | 0 | 4 | 6 |
+| last180d | 2026-04-15 | 0 | 9 | 20 | 0 | 5 | 13 |
+| 360d | 2025-10-17 | 1 | 9 | 26 | 3 | 20 | 13 |
+| last720d | 2024-10-22 | 1 | 11 | 28 | 7 | 36 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:53:15Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:26:36Z._
