@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 7 | 0 | 2 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 8 | 0 | 4 | 0 |
-| 90d | 2026-08-03 | 0 | 2 | 14 | 0 | 4 | 3 |
-| last180d | 2026-05-05 | 0 | 9 | 18 | 0 | 6 | 12 |
-| 360d | 2025-11-06 | 0 | 9 | 26 | 3 | 20 | 13 |
-| last720d | 2024-11-11 | 1 | 11 | 28 | 6 | 37 | 24 |
+| 30d | 2026-10-03 | 0 | 0 | 7 | 0 | 2 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 8 | 0 | 4 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 14 | 0 | 4 | 3 |
+| last180d | 2026-05-06 | 0 | 9 | 18 | 0 | 6 | 12 |
+| 360d | 2025-11-07 | 0 | 9 | 26 | 3 | 20 | 13 |
+| last720d | 2024-11-12 | 1 | 11 | 28 | 6 | 37 | 24 |
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/guake). **23** are ✅ on the latest upstream release, **54** are ⚠️ on an older version.
+Reported by **80** distros on [repology.org](https://repology.org/project/guake). **21** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:31:42Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:41:15Z._
