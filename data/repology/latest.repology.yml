@@ -1,17 +1,54 @@
-- repo: cygwin
+- repo: pureos_landing
+  subrepo: landing/main
   srcname: guake
-  binname: guake
+  binnames:
+    - guake
+  visiblename: guake
+  version: "3.10"
+  origversion: 3.10-2
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - x11
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: guake
+  binnames:
+    - guake
   visiblename: guake
   version: 3.9.0
-  origversion: 3.9.0-1
+  origversion: 3.9.0-2
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - x11
+- repo: nix_stable_24_11
+  srcname: guake
+  visiblename: guake
+  version: "3.10"
+  origversion: null
   status: outdated
   summary: Drop-down terminal for GNOME
   maintainers:
-    - orphaned@cygwin
+    - emailmatthijs@gmail.com
+    - nixpkgs@heywoodlh.io
   licenses:
     - GPL-2.0-or-later
+- repo: raspbian_stable
+  subrepo: main
+  srcname: guake
+  binnames:
+    - guake
+  visiblename: guake
+  version: "3.10"
+  origversion: 3.10-2
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
   categories:
-    - GNOME
+    - x11
 - repo: raspbian_testing
   subrepo: main
   srcname: guake
@@ -21,6 +58,19 @@
   version: 3.10.1
   origversion: 3.10.1-1
   status: newest
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - x11
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: guake
+  binnames:
+    - guake
+  visiblename: guake
+  version: "3.10"
+  origversion: 3.10-2
+  status: outdated
   maintainers:
     - epsilon@debian.org
   categories:
@@ -117,6 +167,20 @@
     - skatox@aur
   licenses:
     - GPL-2.0-or-later
+- repo: cygwin
+  srcname: guake
+  binname: guake
+  visiblename: guake
+  version: 3.9.0
+  origversion: 3.9.0-1
+  status: outdated
+  summary: Drop-down terminal for GNOME
+  maintainers:
+    - orphaned@cygwin
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - GNOME
 - repo: debian_12
   subrepo: bookworm/main
   srcname: guake
@@ -130,19 +194,15 @@
     - epsilon@debian.org
   categories:
     - x11
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: guake
-  binnames:
-    - guake
-  visiblename: guake
-  version: "3.10"
-  origversion: 3.10-2
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - x11
+- repo: wikidata
+  srcname: Q4039743
+  visiblename: Guake
+  version: 3.10.1
+  origversion: null
+  status: newest
+  summary: drop-down terminal emulator software
+  licenses:
+    - GNU General Public License
 - repo: debian_14
   subrepo: forky/main
   srcname: guake
@@ -195,6 +255,17 @@
     - epsilon@debian.org
   categories:
     - x11
+- repo: nix_stable_24_05
+  srcname: guake
+  visiblename: guake
+  version: "3.10"
+  origversion: null
+  status: outdated
+  summary: Drop-down terminal for GNOME
+  maintainers:
+    - emailmatthijs@gmail.com
+  licenses:
+    - GPL-2.0-or-later
 - repo: gentoo
   srcname: x11-terms/guake
   visiblename: x11-terms/guake
@@ -334,29 +405,6 @@
   summary: Python based dropdown terminal
   licenses:
     - GPL-2.0-or-later
-- repo: nix_stable_24_05
-  srcname: guake
-  visiblename: guake
-  version: "3.10"
-  origversion: null
-  status: outdated
-  summary: Drop-down terminal for GNOME
-  maintainers:
-    - emailmatthijs@gmail.com
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_24_11
-  srcname: guake
-  visiblename: guake
-  version: "3.10"
-  origversion: null
-  status: outdated
-  summary: Drop-down terminal for GNOME
-  maintainers:
-    - emailmatthijs@gmail.com
-    - nixpkgs@heywoodlh.io
-  licenses:
-    - GPL-2.0-or-later
 - repo: nix_stable_25_05
   srcname: guake
   visiblename: guake
@@ -483,7 +531,7 @@
   licenses:
     - GPL-2.0-or-later
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: guake
   binnames:
     - guake
@@ -496,7 +544,7 @@
   categories:
     - x11
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: guake
   binnames:
     - guake
@@ -523,45 +571,6 @@
   version: "3.10"
   origversion: 3.10-4
   status: outdated
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: guake
-  binnames:
-    - guake
-  visiblename: guake
-  version: "3.10"
-  origversion: 3.10-2
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - x11
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: guake
-  binnames:
-    - guake
-  visiblename: guake
-  version: 3.9.0
-  origversion: 3.9.0-2
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - x11
-- repo: raspbian_stable
-  subrepo: main
-  srcname: guake
-  binnames:
-    - guake
-  visiblename: guake
-  version: "3.10"
-  origversion: 3.10-2
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
-  categories:
-    - x11
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: guake
@@ -722,28 +731,6 @@
     - orphan@voidlinux.org
   licenses:
     - GPL-2.0-or-later
-- repo: wikidata
-  srcname: Q4039743
-  visiblename: Guake
-  version: 3.10.1
-  origversion: null
-  status: newest
-  summary: drop-down terminal emulator software
-  licenses:
-    - GNU General Public License
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: guake
-  visiblename: guake
-  version: 3.8.1
-  origversion: 3.8.1-bp155.3.5
-  status: outdated
-  summary: Drop-down terminal for GNOME
-  licenses:
-    - GPL-2.0-only
-  categories:
-    - System/X11/Terminals
-  vulnerable: true
 - repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: guake
@@ -914,6 +901,21 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: fedora_45
+  subrepo: release
+  srcname: guake
+  binnames:
+    - guake
+  visiblename: guake
+  version: 3.7.0
+  origversion: 3.7.0-28.fc45
+  status: outdated
+  summary: Drop-down terminal for GNOME
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: fedora_rawhide
   subrepo: development
   srcname: guake
@@ -942,6 +944,20 @@
   categories:
     - x11
   vulnerable: true
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: guake
+  binnames:
+    - guake
+  visiblename: guake
+  version: 3.6.3
+  origversion: 3.6.3-2
+  status: outdated
+  maintainers:
+    - epsilon@debian.org
+  categories:
+    - x11
+  vulnerable: true
 - repo: mageia_9
   subrepo: core/release
   srcname: guake
@@ -956,6 +972,19 @@
     - GPLv2+
   categories:
     - Graphical desktop/GNOME
+  vulnerable: true
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: guake
+  visiblename: guake
+  version: 3.8.1
+  origversion: 3.8.1-bp155.3.5
+  status: outdated
+  summary: Drop-down terminal for GNOME
+  licenses:
+    - GPL-2.0-only
+  categories:
+    - System/X11/Terminals
   vulnerable: true
 - repo: opensuse_leap_15_6
   subrepo: main/oss
@@ -995,20 +1024,6 @@
   status: outdated
   maintainers:
     - epsilon77@gmail.com
-  categories:
-    - x11
-  vulnerable: true
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: guake
-  binnames:
-    - guake
-  visiblename: guake
-  version: 3.6.3
-  origversion: 3.6.3-2
-  status: outdated
-  maintainers:
-    - epsilon@debian.org
   categories:
     - x11
   vulnerable: true
