@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,667 · **Forks**: 610 · **Open issues**: 1,557 · **Contributors**: 246
+- **Stars**: 4,666 · **Forks**: 609 · **Open issues**: 1,554 · **Contributors**: 245
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 646 · **Open PRs**: 35 · **Closed issues**: 1119 · **Open issues**: 438 · **Commits**: 2510
+- **Releases**: 66 · **Merged PRs**: 645 · **Open PRs**: 36 · **Closed issues**: 1118 · **Open issues**: 436 · **Commits**: 2510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 9 | 0 | 3 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 14 | 0 | 5 | 0 |
-| last180d | 2026-05-24 | 0 | 8 | 20 | 0 | 6 | 12 |
-| 360d | 2025-11-25 | 0 | 9 | 28 | 3 | 19 | 13 |
-| last720d | 2024-11-30 | 1 | 11 | 30 | 6 | 37 | 24 |
+| 30d | 2026-10-22 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 10 | 0 | 3 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 13 | 0 | 5 | 0 |
+| last180d | 2026-05-25 | 0 | 7 | 21 | 0 | 6 | 11 |
+| 360d | 2025-11-26 | 0 | 8 | 29 | 2 | 16 | 12 |
+| last720d | 2024-12-01 | 1 | 10 | 31 | 5 | 34 | 24 |
 
 ## Distribution status
 
-Reported by **80** distros on [repology.org](https://repology.org/project/guake). **24** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
+Reported by **79** distros on [repology.org](https://repology.org/project/guake). **24** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:05:58Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:04:06Z._
