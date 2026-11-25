@@ -47,40 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,667 · **Forks**: 609 · **Open issues**: 1,554 · **Contributors**: 245
+- **Stars**: 4,666 · **Forks**: 609 · **Open issues**: 1,557 · **Contributors**: 246
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 645 · **Open PRs**: 36 · **Closed issues**: 1118 · **Open issues**: 436 · **Commits**: 2510
+- **Releases**: 66 · **Merged PRs**: 646 · **Open PRs**: 37 · **Closed issues**: 1119 · **Open issues**: 438 · **Commits**: 2510
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 10 | 0 | 3 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 13 | 0 | 5 | 0 |
-| last180d | 2026-05-28 | 0 | 7 | 21 | 0 | 6 | 11 |
-| 360d | 2025-11-29 | 0 | 8 | 29 | 2 | 16 | 12 |
-| last720d | 2024-12-04 | 1 | 10 | 31 | 5 | 33 | 24 |
-
-## Distribution status
-
-Reported by **79** distros on [repology.org](https://repology.org/project/guake). **24** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.10.1` | ✅ latest |
-| Debian 14 | `3.10.1` | ✅ latest |
-| Debian 13 | `3.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.10.1` | ✅ latest |
-| Ubuntu 24.04 LTS | `3.10` | ⚠️ outdated |
-| Arch | `3.10.1` | ✅ latest |
-| Fedora rawhide | `3.7.0` | ⚠️ outdated |
-| Nix unstable | `3.10.1` | ✅ latest |
-| Void | `3.10` | ⚠️ outdated |
-| Alpine edge | `3.10.1` | ✅ latest |
-| openSUSE Tumbleweed | `3.10` | ⚠️ outdated |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 10 | 0 | 3 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 13 | 0 | 5 | 0 |
+| last180d | 2026-05-29 | 0 | 7 | 21 | 0 | 6 | 12 |
+| 360d | 2025-11-30 | 0 | 8 | 29 | 2 | 16 | 13 |
+| last720d | 2024-12-05 | 1 | 10 | 31 | 5 | 33 | 24 |
 
 ## Improve this data
 
@@ -91,4 +73,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:14:44Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:18:37Z._
