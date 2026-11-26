@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,666 · **Forks**: 609 · **Open issues**: 1,557 · **Contributors**: 246
+- **Stars**: 4,665 · **Forks**: 611 · **Open issues**: 1,557 · **Contributors**: 246
 
 ## Totals (cumulative)
 
@@ -57,12 +57,30 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 10 | 0 | 3 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 13 | 0 | 5 | 0 |
-| last180d | 2026-05-29 | 0 | 7 | 21 | 0 | 6 | 12 |
-| 360d | 2025-11-30 | 0 | 8 | 29 | 2 | 16 | 13 |
-| last720d | 2024-12-05 | 1 | 10 | 31 | 5 | 33 | 24 |
+| 30d | 2026-10-27 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 11 | 0 | 3 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 12 | 0 | 5 | 0 |
+| last180d | 2026-05-30 | 0 | 8 | 22 | 0 | 6 | 12 |
+| 360d | 2025-12-01 | 0 | 9 | 30 | 3 | 18 | 13 |
+| last720d | 2024-12-06 | 1 | 11 | 32 | 6 | 35 | 24 |
+
+## Distribution status
+
+Reported by **78** distros on [repology.org](https://repology.org/project/guake). **24** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.10.1` | ✅ latest |
+| Debian 14 | `3.10.1` | ✅ latest |
+| Debian 13 | `3.10` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.10.1` | ✅ latest |
+| Ubuntu 24.04 LTS | `3.10` | ⚠️ outdated |
+| Arch | `3.10.1` | ✅ latest |
+| Fedora rawhide | `3.7.0` | ⚠️ outdated |
+| Nix unstable | `3.10.1` | ✅ latest |
+| Void | `3.10` | ⚠️ outdated |
+| Alpine edge | `3.10.1` | ✅ latest |
+| openSUSE Tumbleweed | `3.10` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +91,4 @@ Install metadata for guake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:18:37Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:06:18Z._
